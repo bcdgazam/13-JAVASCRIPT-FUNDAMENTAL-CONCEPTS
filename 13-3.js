@@ -7,7 +7,7 @@ friendsAge.push(22);
 friendsAge.push(25);
 console.log(friendsAge);
 
-//array length: How much person has in an array .length
+//length: How much person has in an array .length
 console.log(friendsAge.length);
 
 //Pop: (put out elements from array"end")
