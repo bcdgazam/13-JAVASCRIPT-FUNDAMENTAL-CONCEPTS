@@ -12,5 +12,5 @@ ticketLine.unshift('Hablu');
 console.log(ticketLine);
 
 //slice: Take specific area from an array
-sliceLine = ticketLine.slice(2, 4)
+sliceLine = ticketLine.slice(2, 4) //begining index and end index number
 console.log(sliceLine);
