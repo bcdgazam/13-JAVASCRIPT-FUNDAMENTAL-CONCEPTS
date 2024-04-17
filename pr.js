@@ -1,5 +1,7 @@
-// for(var i = 0; i <= 10; i++){
-// console.log(i);
+// var num = 15;
+// while (num <= 20){
+//     console.log(num);
+//     num++;
 // }
 
 var nums = [10, 20, 30, 40, 50, 60];
