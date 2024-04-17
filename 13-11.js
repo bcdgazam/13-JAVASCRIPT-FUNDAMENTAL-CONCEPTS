@@ -1,6 +1,6 @@
 //13-11 Object, key value pair, get object property, set value
 
-var student1 = {id:12, phone:017000, name:"Abdul"};
+var student1 = {id:12, phone:17000, name:"Abdul"};
 var student2 = {id:10, phone:232, name:"Bolod"};
 
 console.log(student1);
