@@ -1,3 +1,5 @@
+//13-6 For loop loop, run a loop for each element of an array
+
 // for(var i = 0; i <= 10; i++){
 // console.log(i);
 // }
