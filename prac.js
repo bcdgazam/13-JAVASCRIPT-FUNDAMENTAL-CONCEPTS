@@ -18,8 +18,15 @@
 // let newArr = arr.slice(0, 3).concat(arr.slice(4));
 // console.log(newArr);
 
-let num = 10;
-while (num <= 15){
-    console.log(num);
-    num++;
+// let num = 10;
+// while (num <= 15){
+//     console.log(num);
+//     num++;
+// }
+
+let forLoop = [10, 20, 30, 40, 50, 60, 70];
+
+for ( let i = 0; i <forLoop.length; i++){
+    let element = forLoop[i];
+    console.log(element);
 }
