@@ -13,13 +13,11 @@
     13-11 Object, key value pair, get object property, set value
 */
 
-let arr = [23, 30, 78, 32];
+let arr = [10, 20, 30, 40, 50, 60];
 console.log(arr);
-
-console.log(arr[2]);
-
-arr[1] = 90;
+let newArr = arr[2];
+console.log(newArr);
+arr[2] = 900;
 console.log(arr);
-
-let element = arr.indexOf(32);
-console.log(element);
+let indeCheck = arr.indexOf(50);
+console.log(indeCheck);
