@@ -21,3 +21,12 @@ console.log(friendsAge);
 //unshift: put in elements in array"begining")
 friendsAge.unshift(39)
 console.log(friendsAge);
+
+
+//special
+let arr = [10, 20, 30, 40, 50, 80, 90];
+
+// Remove the element at index 3 (which is 40 in this case)
+let newArr = arr.slice(0, 3).concat(arr.slice(4));
+
+console.log(newArr); // The updated array without the middle element

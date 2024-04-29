@@ -2,7 +2,7 @@
 
 /*
     13-2 Array, index, set by index, indexOf
-    13-3 Array advanced, Push, pop, array length
+    13-3 Array advanced, Push, pop, array length (splice , concat)
     13-4 array add and remove element from the beginning and slice
     13-5 While loop, debug javascript code, less or equal
     13-6 For loop loop, run a loop for each element of an array
@@ -13,11 +13,7 @@
     13-11 Object, key value pair, get object property, set value
 */
 
-let arr = [10, 20, 30, 40, 50, 60];
-console.log(arr);
-let newArr = arr[2];
-console.log(newArr);
-arr[2] = 900;
-console.log(arr);
-let indeCheck = arr.indexOf(50);
-console.log(indeCheck);
+let arra = [10, 20, 30, 40, 50]
+arra.push(900);
+arra.splice(2)
+console.log(arra);
