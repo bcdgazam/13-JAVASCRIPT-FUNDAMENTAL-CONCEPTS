@@ -14,9 +14,12 @@
 */
 
 //special
-let arr = [10, 20, 30, 40, 50, 80, 90];
+// let arr = [10, 20, 30, 40, 50, 80, 90];
+// let newArr = arr.slice(0, 3).concat(arr.slice(4));
+// console.log(newArr);
 
-// Remove the element at index 3 (which is 40 in this case)
-let newArr = arr.slice(0, 3).concat(arr.slice(4));
-
-console.log(newArr); // The updated array without the middle element
+let num = 10;
+while (num <= 15){
+    console.log(num);
+    num++;
+}
