@@ -33,22 +33,12 @@
 
 //switch case:
 
-let num = 1000;
-switch (num) {
-    case 100:
-        console.log('I am 100')    
-        break;
-    case 200:
-        console.log('I am 200;');
-        break;
-    case 300:
-        console.log('I am 300');
-        break;
-    case 400:
-        console.log('I am 400');
-        break
-
-    default:
-        console.log('Sorry, I don\'t Know')
-        break;
+function thisIsTest(){
+    console.log('Hi I am hablu, I dont have a good knowledge');
+    console.log('Are you okay? I hope so!')
 }
+
+thisIsTest();
+thisIsTest();
+thisIsTest();
+thisIsTest();
