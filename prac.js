@@ -1,5 +1,6 @@
-let arr = [12, 23, 345, 34, 534, 22, 32, 5]
-arr.push(300);
-arr.pop()
-let newarr = arr.slice(345);
+let arr = [10, 20, 30, 40, 50, 60, 70, 80];
+arr[3] = 800;
+arr.pop();
+arr.push(4000)
+let newarr = arr.slice(0, 4).concat(arr.slice(5));
 console.log(newarr);
