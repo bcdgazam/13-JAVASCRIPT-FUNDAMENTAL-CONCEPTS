@@ -47,8 +47,16 @@
 
 //while loop practice
 
-let num = 1;
-while(num <= 100){
-    console.log(num);
-    num++;
+// let num = 1;
+// while(num <= 100){
+//     console.log(num);
+//     num++;
+// }
+
+//For loop practice
+
+let nums = [10, 20, 30, 40, 50, 60, 80];
+for(let i = 0; i < nums.length; i++){
+    let element = nums[i];
+    console.log(element);
 }
