@@ -55,8 +55,28 @@
 
 //For loop practice
 
-let nums = [10, 20, 30, 40, 50, 60, 80];
-for(let i = 0; i < nums.length; i++){
-    let element = nums[i];
-    console.log(element);
+// let nums = [10, 20, 30, 40, 50, 60, 80];
+// for(let i = 0; i < nums.length; i++){
+//     let element = nums[i];
+//     console.log(element);
+// }
+
+// switch case
+
+let num = 100;
+
+switch (num) {
+    case 50:
+        console.log('I am fifty')
+        break;
+    case 70:
+        console.log('I am Seventy');
+            break;
+    case 100:
+        console.log('I am hundred');
+        break;
+
+    default:
+        console.log('It is not matching')
+        break;
 }

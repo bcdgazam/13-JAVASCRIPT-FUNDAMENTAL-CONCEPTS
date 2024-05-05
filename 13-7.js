@@ -1,6 +1,6 @@
 //13-7 Javascript Switch Case Break And Default
 
-num = 5;
+num = 500;
 
 switch(num){
     case 1000:
