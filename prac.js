@@ -9,6 +9,9 @@
 //     num++;
 // }
 
-for(let i = 0; i <= 12; i++){
-    console.log(i);
+let array = [10, 20, 30, 40, 50, 60, 70, 80]
+
+for(let i = 0; i < array.length; i++){
+    let element = array[i];
+    console.log(element);
 }
