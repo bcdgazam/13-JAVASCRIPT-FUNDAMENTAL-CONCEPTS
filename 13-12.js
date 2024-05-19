@@ -8,7 +8,7 @@
     13-6 For loop loop, run a loop for each element of an array
     13-7 Javascript Switch Case Break And Default
     13-8 Function, call function
-    13-9 Function Parameter, multiple parameter, function return
+    13-9 Function Parameter, multiple parameter, function return (make a value double,make a value double and return to a variable)
     13-10 Comment, multiple lines comment
-    13-11 Object, key value pair, get object property, set value
+    13-11 Object, key value pair, get object property, set value (Check phone number, update phone number)
 */
